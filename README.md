@@ -4,4 +4,4 @@ Datos correspondientes a los resultados parciales de las elecciones PASO 2019, d
 Indicaciones básicas:
 
 En master están los archivos más recientes, es decir, los últimos resultados.
-Las ramas (branch) que se abren están denominadas con el timestamp DDMMAA-HHMMSS en el que se dieron a conocer.
+Las demás carpetas están denominadas con el timestamp DDMMAA-HHMMSS en el que se dieron a conocer los datos.
